@@ -1,0 +1,42 @@
+﻿body {
+    background-color: #E9E9E9;
+}
+
+#ManagerLogin .LoginTable {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 220px;
+    height: 140px;
+    margin: -80px 0 0 -110px;
+}
+
+    #ManagerLogin .LoginTable tbody th {
+        width: 100px;
+        text-align: right;
+        color: #8E8E8E;
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    #ManagerLogin .LoginTable tbody td input {
+        padding: 4px;
+        height: 15px;
+        border-width: 0px;
+        border-color: white;
+        border-style: none;
+        border-bottom-width: 1px;
+        border-bottom-color: #CDD3D9;
+        border-bottom-style: solid;
+        vertical-align: middle;
+        background-color: #E9E9E9;
+    }
+
+    #ManagerLogin .LoginTable tbody td img {
+        padding: 0 0 0 2px;
+        vertical-align: middle;
+    }
+
+    #ManagerLogin .LoginTable .Button2 {
+        float: right;
+    }

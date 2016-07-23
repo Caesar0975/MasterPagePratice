@@ -1,0 +1,7 @@
+D:\_Project\牧貓-犬心寶\0.Application\Heartgard\_Element\HtmlEditor\ckfinder\_source\Resources\Plugins\ImageResize\bin\Debug\CKFinder_ImageResize.dll
+D:\_Project\牧貓-犬心寶\0.Application\Heartgard\_Element\HtmlEditor\ckfinder\_source\Resources\Plugins\ImageResize\bin\Debug\CKFinder_ImageResize.pdb
+D:\_Project\牧貓-犬心寶\0.Application\Heartgard\_Element\HtmlEditor\ckfinder\_source\Resources\Plugins\ImageResize\bin\Debug\CKFinder.dll
+D:\_Project\牧貓-犬心寶\0.Application\Heartgard\_Element\HtmlEditor\ckfinder\_source\Resources\Plugins\ImageResize\bin\Debug\CKFinder.pdb
+D:\_Project\牧貓-犬心寶\0.Application\Heartgard\_Element\HtmlEditor\ckfinder\_source\Resources\Plugins\ImageResize\obj\Debug\ImageResize.csprojResolveAssemblyReference.cache
+D:\_Project\牧貓-犬心寶\0.Application\Heartgard\_Element\HtmlEditor\ckfinder\_source\Resources\Plugins\ImageResize\obj\Debug\CKFinder_ImageResize.dll
+D:\_Project\牧貓-犬心寶\0.Application\Heartgard\_Element\HtmlEditor\ckfinder\_source\Resources\Plugins\ImageResize\obj\Debug\CKFinder_ImageResize.pdb

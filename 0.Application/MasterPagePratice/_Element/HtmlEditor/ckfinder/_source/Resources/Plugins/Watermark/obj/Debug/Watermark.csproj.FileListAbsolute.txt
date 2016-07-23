@@ -1,0 +1,7 @@
+D:\_Project\牧貓-犬心寶\0.Application\Heartgard\_Element\HtmlEditor\ckfinder\_source\Resources\Plugins\Watermark\bin\Debug\CKFinder_Watermark.dll
+D:\_Project\牧貓-犬心寶\0.Application\Heartgard\_Element\HtmlEditor\ckfinder\_source\Resources\Plugins\Watermark\bin\Debug\CKFinder_Watermark.pdb
+D:\_Project\牧貓-犬心寶\0.Application\Heartgard\_Element\HtmlEditor\ckfinder\_source\Resources\Plugins\Watermark\bin\Debug\CKFinder.dll
+D:\_Project\牧貓-犬心寶\0.Application\Heartgard\_Element\HtmlEditor\ckfinder\_source\Resources\Plugins\Watermark\bin\Debug\CKFinder.pdb
+D:\_Project\牧貓-犬心寶\0.Application\Heartgard\_Element\HtmlEditor\ckfinder\_source\Resources\Plugins\Watermark\obj\Debug\Watermark.csprojResolveAssemblyReference.cache
+D:\_Project\牧貓-犬心寶\0.Application\Heartgard\_Element\HtmlEditor\ckfinder\_source\Resources\Plugins\Watermark\obj\Debug\CKFinder_Watermark.dll
+D:\_Project\牧貓-犬心寶\0.Application\Heartgard\_Element\HtmlEditor\ckfinder\_source\Resources\Plugins\Watermark\obj\Debug\CKFinder_Watermark.pdb

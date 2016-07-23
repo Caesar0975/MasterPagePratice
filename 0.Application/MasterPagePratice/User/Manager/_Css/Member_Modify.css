@@ -1,0 +1,18 @@
+﻿body {
+    width: 400px;
+}
+
+#Member_Modify {
+}
+
+    #Member_Modify .Table2 .Plans {
+        line-height: 30px;
+    }
+
+    #Member_Modify .Button2.Red {
+        float: left;
+    }
+
+    #Member_Modify .Button2.Blue {
+        float: right;
+    }

@@ -1,0 +1,78 @@
+﻿.Element_Pagger {
+    padding: 4px;
+    margin-top: 4px;
+    text-align: center;
+}
+
+    .Element_Pagger .PaggerButton.Next {
+        display: inline-block;
+        padding-right: 10px;
+        width: 63px;
+        height: 30px;
+        height: 30px;
+        line-height: 30px;
+        color: #fff;
+        font-size: 15px;
+        background-image: url('/_Element/Pagger/_Image/BgArrow.png');
+        background-repeat: no-repeat;
+        vertical-align: middle;
+    }
+
+        .Element_Pagger .PaggerButton.Next:hover {
+            background-position: -73px 0;
+        }
+
+        .Element_Pagger .PaggerButton.Next:active {
+            background-position: -73px 0;
+        }
+
+    .Element_Pagger a.PageNumber {
+        text-align: center;
+        display: inline-block;
+        margin: 0 3px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        color: #fff;
+        font-size: 15px;
+        background-image: url('/_Element/Pagger/_Image/Pagger.png');
+        vertical-align: middle;
+    }
+
+        .Element_Pagger a.PageNumber:hover {
+            background-position: 0 -30px;
+        }
+
+        .Element_Pagger a.PageNumber.Selected {
+            background-position: 0 -30px;
+        }
+
+    .Element_Pagger .PageSeparate {
+        display: none;
+        margin: 0 0 0 4px;
+        font-weight: bold;
+        font-size: 15px;
+    }
+
+    .Element_Pagger .PaggerButton.Previous {
+        display: inline-block;
+        padding-left: 10px;
+        width: 63px;
+        height: 30px;
+        height: 30px;
+        line-height: 30px;
+        color: #fff;
+        font-size: 15px;
+        background-image: url('/_Element/Pagger/_Image/BgArrow.png');
+        background-repeat: no-repeat;
+        vertical-align: middle;
+        background-position: 0 -30px;
+    }
+
+        .Element_Pagger .PaggerButton.Previous:hover {
+            background-position: -73px -30px;
+        }
+
+        .Element_Pagger .PaggerButton.Previous:active {
+            background-position: -73px -30px;
+        }

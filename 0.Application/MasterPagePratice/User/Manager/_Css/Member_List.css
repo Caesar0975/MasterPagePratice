@@ -1,0 +1,10 @@
+﻿#Member_List {
+}
+
+    #Member_List .Table1.Detail {
+        width: 100%;
+    }
+
+        #Member_List .Table1.Detail th {
+            text-align: center;
+        }

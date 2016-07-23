@@ -1,0 +1,11 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    font-size: 13px;
+    font-family: 微軟正黑體;
+    color: #333;
+    background-image: url(../../_Image/images.jpg)
+}
+    body h1{
+        color:blueviolet;
+    }
